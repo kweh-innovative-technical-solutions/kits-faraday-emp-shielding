@@ -59,7 +59,6 @@ Open a pull request or raise an issue.
 
 ## Contact
 
-- Company: nyontonsamuelkweh@youngengineers.org
 - Personal: nyontonskweh@proton.me
 - Phone: +1 (833)-384-4781
 
