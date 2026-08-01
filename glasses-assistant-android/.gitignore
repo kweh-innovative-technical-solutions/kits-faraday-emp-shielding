@@ -1,0 +1,16 @@
+# Secrets — never commit. Holds sdk.dir and ANTHROPIC_KEY.
+local.properties
+
+# Build output
+.gradle/
+build/
+app/build/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Keystore
+*.jks
+*.keystore

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glasses Assistant</string>
+
+    <!-- Honest, plain description of the assistive purpose. This text is shown
+         to the user in Settings > Accessibility before they enable the service,
+         and is a Play Store compliance surface for accessibility apps. -->
+    <string name="accessibility_description">Glasses Assistant is a hands-free, eyes-free
+        voice interface. When you speak a command through your Bluetooth glasses or
+        headset, this service reads what is currently on your screen and performs a
+        single action you asked for — such as opening an app or tapping a button — then
+        speaks the result back to you. It acts only when you trigger a voice turn. It is
+        intended for hands-free and accessibility use while your phone stays in your
+        pocket.</string>
+
+    <string name="notif_channel_name">Assistant runtime</string>
+    <string name="notif_channel_desc">Keeps the voice assistant listening in the background.</string>
+    <string name="notif_running">Glasses Assistant is running</string>
+    <string name="notif_running_desc">Tap Talk to speak a command.</string>
+</resources>
